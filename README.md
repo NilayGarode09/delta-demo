@@ -1,2 +1,3 @@
+$
 # delta-demo
-demo for class
+demo for class hi 
